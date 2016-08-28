@@ -1,0 +1,3 @@
+[submodule "vendor/src/github.com/pkg/errors"]
+	path = vendor/src/github.com/pkg/errors
+	url = https://github.com/pkg/errors
